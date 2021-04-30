@@ -28,6 +28,10 @@ I am a self-motivated person, with a great passion of studying web technologies.
 -   BEM Naming
 -   Flexbox
 -   Grid
+-   Working with arrays and objects
+-   The Basics of OOP and classes
+-   Working with functions (arrow functions)
+
 
 ### Education
 
