@@ -30,7 +30,7 @@ I am a self-motivated person, with a great passion of studying web technologies.
 -   Grid
 -   Working with arrays and objects
 -   The Basics of OOP and classes
--   Working with functions (arrow functions)
+-   Working with functions (arrow functions) and DOM
 
 
 ### Education
