@@ -20,14 +20,11 @@ I am a self-motivated person, with a great passion of studying web technologies.
 
 ### Works/Practiced:
 
--   Media quires
 -   ADC Website Homepage
--   Simple js sliders
--   Custom checkboxes
+-   Media quires
 -   SASS
 -   BEM Naming
--   Flexbox
--   Grid
+-   Flexbox/Grid
 -   Working with arrays and objects
 -   The Basics of OOP and classes
 -   Working with functions (arrow functions) and DOM
@@ -36,6 +33,6 @@ I am a self-motivated person, with a great passion of studying web technologies.
 ### Education
 
 - Belarusian Institute of Law, specialty manager.
- - Web development courses 'WebStorm' - Minsk. At this time.
+ - Web development courses 'WebStorm' - Minsk.
  - Udemy courses.
  - Self-education.
