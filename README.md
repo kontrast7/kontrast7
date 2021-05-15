@@ -13,7 +13,7 @@ I am a self-motivated person, with a great passion of studying web technologies.
 
 ### Skills
 
--   HTML, CSS, JavaScript (Basic)
+-   HTML, CSS, JavaScript (Basic), React (Elementary)
 -   Git
 -   BEM methodology, SASS
 -   Photoshop, Figma, Avacode
