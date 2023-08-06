@@ -4,4 +4,4 @@ Maksim Mashko
 
 ### Contacts
 
--   eMail - maks.mashko@gmail.com
+-   email - maks.mashko@gmail.com
